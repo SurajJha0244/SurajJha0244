@@ -15,12 +15,14 @@
 - **Languages:** C, C++, JavaScript, Dart  
 - **Web Development:**  
   - 🌐 Frontend → HTML, CSS, JavaScript  
-  - ⚙️ Backend → Node.js, Django  
+  - ⚙️ Backend → Node.js, Django
+  - 💻 AI/Ml  →  panda,Numpy,Anconda Navigator
 - **Mobile Development:** Flutter (Dart)  
 
 ---
 
 ## 🚀 What I’m Currently Doing  
+-  🚩python 
 - 🌱 Learning **AI/ML concepts** and working on small projects.  
 - 💻 Exploring **full-stack development** with Django & Node.js.  
 - 📱 Building mobile apps using **Flutter**.  
@@ -29,18 +31,18 @@
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surajjha0244&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajJha0244&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajjha0244&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajJha0244&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌐 Connect With Me  
 
-- 📫 Email: **your.email@example.com**  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- 📫 Email: **jhasuraj10000@gmail.com**  
+- 💼 LinkedIn: https://linkedin.com/in/surajjha12345  
+ 
 
 ---
 
-✨ *“Code, Learn, Build, Repeat.”* ✨  
+✨ *“Learn, Code, Build, Repeat.”* ✨  
