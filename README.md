@@ -29,14 +29,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajJha0244&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajJha0244&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Connect With Me  
 
 - 📫 Email: **jhasuraj10000@gmail.com**  
