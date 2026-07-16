@@ -24,7 +24,7 @@
 ## 🚀 What I’m Currently Doing  
 -  🚩python 
 - 🌱 Learning **AI/ML concepts** and working on small projects.  
-- 💻 Exploring **full-stack development** with Django & Node.js.  
+- 💻 Exploring **full-stack development** Python with Django 
 - 📱 Building mobile apps using **Flutter**.  
 
 ---
