@@ -12,11 +12,11 @@
 
 ## 🛠️ Tech Stack  
 
-- **Languages:** C, C++, JavaScript, Dart  
+- **Languages:** python, C, C++, JavaScript, Dart  
 - **Web Development:**  
   - 🌐 Frontend → HTML, CSS, JavaScript  
-  - ⚙️ Backend →  Django
-  - 💻 AI/Ml  →  panda,Numpy,Anconda Navigator
+  - ⚙️ Backend →  Python,Django
+  - 💻 AI/Ml  → python,panda,Numpy,Anconda Navigator
 - **Mobile Development:** Flutter (Dart)  
 
 ---
