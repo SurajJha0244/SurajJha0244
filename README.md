@@ -31,7 +31,7 @@
 
 ## 🌐 Connect With Me  
 
-- 📫 Email: **jhasuraj10000@gmail.com**  
+- 📫 Email: **surajha.dev@gmail.com**  
 - 💼 LinkedIn: https://linkedin.com/in/surajjha12345  
  
 
